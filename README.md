@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="https://i.ibb.co/1K0J2Vj/Screenshot-from-2021-12-18-21-52-57.png" width="600px"  alt="Screenshot-from-2021-12-18-21-52-57" border="0">    <br>
-    TODO - Project
+<!-- <img src="https://i.ibb.co/1K0J2Vj/Screenshot-from-2021-12-18-21-52-57.png" width="600px"  alt="Screenshot-from-2021-12-18-21-52-57" border="0">    <br> -->
+  APP  TODO - Project
 </h1>
 
 <h4 align="center">
@@ -15,7 +15,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/RaphaelTaglialegna/Project-Trybe-Wallet">
 </p>
 
-This project simulates a wallet, getting currencies values to throw an API. It was an individual project which developed abilities to work with the state of the application using Redux.
+This is TODO APP, where the user make their appointments and can connect with their smartphone, using a QRcode. The tasks are saved in backend with node.js and the APP was developed for Desktop and Mobile.
 <br /><br />
 Link [Trybe Walet Project](https://project-trybe-wallet-neon.vercel.app/)
 <br />
@@ -28,8 +28,7 @@ This project was developed at the [Trybe](https://www.betrybe.com/) course with 
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
   </p>
   
 ## :information_source: How To Use
@@ -38,10 +37,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:RaphaelTaglialegna/Project-Trybe-Wallet.git
+$ git@github.com:RaphaelTaglialegna/ProjectTODO.git
 
 # Go into the repository
-$ cd Project-Trybe-Wallet
+$ cd ProjectTODO
 
 # Install dependencies
 $ npm install
