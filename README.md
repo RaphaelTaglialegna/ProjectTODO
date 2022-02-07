@@ -17,7 +17,7 @@
 
 This is TODO APP, where the user make their appointments and can connect with their smartphone, using a QRcode. The tasks are saved in backend with node.js and the APP was developed for Desktop and Mobile.
 <br /><br />
-Link [Trybe Walet Project](https://project-trybe-wallet-neon.vercel.app/)
+<!-- Link [Trybe Walet Project](https://project-trybe-wallet-neon.vercel.app/) -->
 <br />
 ## :rocket: Technologies
 
