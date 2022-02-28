@@ -6,6 +6,6 @@ server.use(express.json()); // Aqui serve para a nossa API entender que as infor
 const TaskRoutes  = require('./routes/TaskRoutes');
 server.use('/task', TaskRoutes);
 
-server.listen(3000, () => {
- console.log('API ONLINE')
+server.listen(3002, () => {
+ console.log('API ONLINE PORT 3002')
 })
